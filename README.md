@@ -2,7 +2,7 @@ The package is developed for tracking of the TREK-E36/J-PARC experiment.
 
 Kalman filter is applied for tracking.
 
-Scheme of the package:
+About the package:
 
 •  Development environment: C++ and ROOT
 
