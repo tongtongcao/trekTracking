@@ -8,18 +8,18 @@
 
 •  Introduction to classes:
 
-  –  Particles’ properties: particle
+	–  Particles’ properties: particle
   
-  –  Plane and hit: plane and planeHit
+	–  Plane and hit: plane and planeHit
   
-  –  Detectors’ properties: mwpcs, tof1, tof2, sft, target, etc
+	–  Detectors’ properties: mwpcs, tof1, tof2, sft, target, etc
   
-  –  Field map and propagation: fieldMap and fieldStepper
+	–  Field map and propagation: fieldMap and fieldStepper
   
-  –  Specified matrix definition for TREK tracking: matrix
+	–  Specified matrix definition for TREK tracking: matrix
   
-  –  Tracking by Kalman filter and smoother: trackSystem, trackSite and trackState
+	–  Tracking by Kalman filter and smoother: trackSystem, trackSite and trackState
   
-  –  Tracking engine: trackFinder
+	–  Tracking engine: trackFinder
   
-  –  Track information storage: track
+	–  Track information storage: track
