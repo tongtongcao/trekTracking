@@ -1,3 +1,5 @@
+About the package:
+
 •  Development environment: C++ and ROOT
 
 •  Build tool: Make
