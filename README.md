@@ -1,5 +1,7 @@
 •  Development environment: C++ and ROOT
+
 •  Build tool: Make
+
 •  Main function: trekTracker.cxx
 •  Parameters’ setup: utility.h
 •  Introduction to classes:
